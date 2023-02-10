@@ -1,4 +1,11 @@
-## Hi there 👋
+## Twin Themes
+
+Twin Themes are a pair of sibling themes that focus on readability and comfort. One is Black, the other is Blue. Both themes have overlapping colors, but use different shades in places to differentiate themselves.
+
+**Black** is cozy. It uses dimmed colors to create a minimal environment.
+
+**Blue** uses vibrant colors for easier readability without sacrificing comfort.
+
 
 <!--
 
